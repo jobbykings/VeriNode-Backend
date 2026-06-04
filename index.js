@@ -1,4 +1,4 @@
 const express = require('express');
 const app = express();
-app.get('/', (req, res) => res.send('SoroSusu API is running'));
+app.get('/', (req, res) => res.send('VeriNode API is running'));
 app.listen(3000, () => console.log('Server running on port 3000'));

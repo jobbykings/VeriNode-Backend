@@ -1,5 +1,5 @@
 {
-  "name": "sorosusu-backend",
+  "name": "verinode-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SoroSusu-Protocol/sorosusu-backend.git"
+    "url": "git+https://github.com/VeriNode-Labs/verinode-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/SoroSusu-Protocol/sorosusu-backend/issues"
+    "url": "https://github.com/VeriNode-Labs/verinode-backend/issues"
   },
-  "homepage": "https://github.com/SoroSusu-Protocol/sorosusu-backend#readme",
+  "homepage": "https://github.com/VeriNode-Labs/verinode-backend#readme",
   "dependencies": {
     "cors": "^2.8.6",
     "dotenv": "^17.2.4",
